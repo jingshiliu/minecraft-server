@@ -1,0 +1,124 @@
+[11:02:54] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[11:02:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:02:58] [ServerMain/INFO]: Loaded 1370 recipes
+[11:02:58] [ServerMain/INFO]: Loaded 1481 advancements
+[11:02:58] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[11:02:58] [Server thread/INFO]: Loading properties
+[11:02:58] [Server thread/INFO]: Default game type: SURVIVAL
+[11:02:58] [Server thread/INFO]: Generating keypair
+[11:02:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:02:58] [Server thread/INFO]: Using default channel type
+[11:02:58] [Server thread/INFO]: Preparing level "world"
+[11:02:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:02:59] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[11:02:59] [Worker-Main-9/INFO]: Preparing spawn area: 77%
+[11:02:59] [Server thread/INFO]: Time elapsed: 522 ms
+[11:02:59] [Server thread/INFO]: Done (0.674s)! For help, type "help"
+[11:03:59] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:50:09] [User Authenticator #1/INFO]: UUID of player JingshiLiu is d7addac5-aba4-42a8-9851-e80ceaa5cb76
+[11:50:09] [Server thread/INFO]: JingshiLiu[/127.0.0.1:50655] logged in with entity id 2 at (335.89251126035816, 62.5625, -852.3000000119209)
+[11:50:09] [Server thread/INFO]: JingshiLiu joined the game
+[12:19:44] [User Authenticator #2/INFO]: UUID of player Batato1024 is 20b650c8-4348-4cce-a807-4f1a8fb8a620
+[12:19:44] [Server thread/INFO]: Batato1024[/47.230.60.135:3896] logged in with entity id 6308 at (59.33049332941556, 63.9375, -721.9414860424716)
+[12:19:44] [Server thread/INFO]: Batato1024 joined the game
+[12:20:25] [Server thread/INFO]: <JingshiLiu> can u collect wheats
+[12:20:37] [Server thread/INFO]: <Batato1024> ok later
+[12:27:31] [Server thread/INFO]: <JingshiLiu> have stone?
+[12:27:39] [Server thread/INFO]: <Batato1024> nope
+[12:27:44] [Server thread/INFO]: <JingshiLiu> wait me
+[12:29:29] [Server thread/INFO]: <Batato1024> waaaaaaa
+[12:31:03] [Server thread/INFO]: <Batato1024> u kill me
+[12:31:17] [Server thread/INFO]: <JingshiLiu> come
+[12:32:56] [Server thread/INFO]: <Batato1024> cooooool
+[12:45:38] [Server thread/INFO]: Villager coj['Villager'/303, l='ServerLevel[world]', x=129.64, y=74.00, z=-733.58] died, message: 'Villager was slain by Zombie'
+[12:46:31] [Server thread/INFO]: Villager coj['Villager'/357, l='ServerLevel[world]', x=128.70, y=72.00, z=-735.35] died, message: 'Villager was slain by Zombie'
+[13:02:15] [Server thread/INFO]: Batato1024 lost connection: Disconnected
+[13:02:15] [Server thread/INFO]: Batato1024 left the game
+[13:12:18] [User Authenticator #3/INFO]: UUID of player Batato1024 is 20b650c8-4348-4cce-a807-4f1a8fb8a620
+[13:12:18] [Server thread/INFO]: Batato1024[/47.230.60.135:1896] logged in with entity id 17206 at (151.5, 124.0, -793.5)
+[13:12:18] [Server thread/INFO]: Batato1024 joined the game
+[13:42:51] [Server thread/INFO]: Batato1024 has made the advancement [Hot Stuff]
+[15:35:07] [User Authenticator #4/INFO]: UUID of player Phosphorus212 is be4d9885-14ce-475b-ad5f-bf152baf451d
+[15:35:07] [Server thread/INFO]: Phosphorus212[/24.193.111.157:52723] logged in with entity id 46942 at (55.30000001192093, 65.0, -725.3000000119209)
+[15:35:07] [Server thread/INFO]: Phosphorus212 joined the game
+[15:49:36] [Server thread/INFO]: Villager coj['Villager'/477, l='ServerLevel[world]', x=62.70, y=68.52, z=-765.23] died, message: 'Villager was slain by Zombie'
+[16:06:52] [Server thread/INFO]: Phosphorus212 drowned
+[16:12:42] [Server thread/INFO]: Phosphorus212 was shot by Skeleton
+[16:22:53] [Server thread/INFO]: Phosphorus212 drowned
+[16:27:51] [Server thread/INFO]: Phosphorus212 was slain by Zombie
+[16:28:32] [Server thread/INFO]: Villager coj['Villager'/360, l='ServerLevel[world]', x=57.49, y=65.00, z=-754.47] died, message: 'Villager was slain by Zombie'
+[16:38:59] [Server thread/INFO]: Phosphorus212 discovered the floor was lava
+[16:44:46] [Server thread/INFO]: Phosphorus212 was slain by Zombie
+[16:46:20] [Server thread/INFO]: Villager coj['Villager'/17251, l='ServerLevel[world]', x=3.27, y=72.00, z=-725.66] died, message: 'Villager was slain by Zombie'
+[17:07:42] [Server thread/INFO]: Phosphorus212 discovered the floor was lava
+[17:11:22] [Server thread/INFO]: Phosphorus212 discovered the floor was lava
+[17:23:23] [Server thread/INFO]: Villager coj['Villager'/17256, l='ServerLevel[world]', x=3.70, y=67.00, z=-725.75] died, message: 'Villager was slain by Zombie'
+[17:29:18] [Server thread/INFO]: Villager coj['Villager'/17241, l='ServerLevel[world]', x=22.91, y=65.00, z=-731.57] died, message: 'Villager was slain by Zombie'
+[17:29:35] [Server thread/INFO]: Villager coj['Villager'/17242, l='ServerLevel[world]', x=43.38, y=65.00, z=-724.91] died, message: 'Villager was slain by Zombie Villager'
+[17:51:34] [Server thread/INFO]: Batato1024 was blown up by Creeper
+[18:32:16] [Server thread/INFO]: <Batato1024> you ku li pa zai door front
+[18:32:40] [Server thread/INFO]: <Batato1024> u careful in the hole
+[18:32:53] [Server thread/INFO]: <Batato1024> i go eateat
+[18:33:27] [Server thread/INFO]: Batato1024 lost connection: Disconnected
+[18:33:27] [Server thread/INFO]: Batato1024 left the game
+[18:36:33] [Server thread/INFO]: <JingshiLiu> u playing?
+[18:36:37] [Server thread/INFO]: <JingshiLiu> discord?
+[18:45:00] [Server thread/INFO]: Phosphorus212 was shot by Skeleton
+[18:48:52] [Server thread/INFO]: Phosphorus212 was slain by Zombie
+[19:41:38] [Server thread/INFO]: <JingshiLiu> discord
+[19:41:49] [Server thread/INFO]: Phosphorus212 was doomed to fall by JingshiLiu
+[19:41:56] [Server thread/INFO]: <JingshiLiu> wtf
+[19:42:00] [Server thread/INFO]: <JingshiLiu> u so week
+[19:53:00] [User Authenticator #5/INFO]: UUID of player Batato1024 is 20b650c8-4348-4cce-a807-4f1a8fb8a620
+[19:53:00] [Server thread/INFO]: Batato1024[/47.230.60.135:2111] logged in with entity id 119494 at (156.01348871839832, 124.0, -791.4111153435451)
+[19:53:00] [Server thread/INFO]: Batato1024 joined the game
+[19:55:02] [Server thread/INFO]: JingshiLiu was blown up by Creeper
+[19:57:41] [Server thread/INFO]: Batato1024 lost connection: Disconnected
+[19:57:41] [Server thread/INFO]: Batato1024 left the game
+[19:57:43] [User Authenticator #6/INFO]: UUID of player Batato1024 is 20b650c8-4348-4cce-a807-4f1a8fb8a620
+[19:57:43] [Server thread/INFO]: Batato1024[/47.230.60.135:2301] logged in with entity id 120738 at (152.3660811398883, 119.0, -791.8701151922867)
+[19:57:43] [Server thread/INFO]: Batato1024 joined the game
+[20:19:02] [Server thread/INFO]: Villager coj['Villager'/783, l='ServerLevel[world]', x=6.39, y=65.42, z=-724.81] died, message: 'Villager was slain by Zombie'
+[20:42:30] [Server thread/INFO]: Phosphorus212 has made the advancement [The Parrots and the Bats]
+[20:53:34] [Server thread/INFO]: Batato1024 lost connection: Disconnected
+[20:53:34] [Server thread/INFO]: Batato1024 left the game
+[20:58:28] [User Authenticator #7/INFO]: UUID of player Batato1024 is 20b650c8-4348-4cce-a807-4f1a8fb8a620
+[20:58:28] [Server thread/INFO]: Batato1024[/47.230.60.135:2129] logged in with entity id 140165 at (152.9201180058807, 119.0, -791.7977338622729)
+[20:58:28] [Server thread/INFO]: Batato1024 joined the game
+[20:58:39] [Server thread/INFO]: JingshiLiu lost connection: Disconnected
+[20:58:39] [Server thread/INFO]: JingshiLiu left the game
+[20:59:31] [User Authenticator #8/INFO]: UUID of player JingshiLiu is d7addac5-aba4-42a8-9851-e80ceaa5cb76
+[20:59:32] [Server thread/INFO]: JingshiLiu[/127.0.0.1:54016] logged in with entity id 140402 at (150.30000001192093, 119.0, -795.4940408813558)
+[20:59:32] [Server thread/INFO]: JingshiLiu joined the game
+[21:08:50] [Server thread/INFO]: Phosphorus212 was doomed to fall by Husk
+[21:08:58] [Server thread/INFO]: JingshiLiu was slain by Husk
+[21:10:35] [Server thread/INFO]: Phosphorus212 was slain by Husk
+[21:10:56] [Server thread/INFO]: JingshiLiu was slain by Husk
+[21:12:09] [Server thread/INFO]: Phosphorus212 was slain by Husk
+[21:12:28] [Server thread/INFO]: Phosphorus212 was slain by Husk
+[21:17:41] [Server thread/INFO]: Phosphorus212 has made the advancement [Under Lock and Key]
+[21:19:54] [Server thread/INFO]: Phosphorus212 was shot by Stray
+[21:27:13] [Server thread/INFO]: JingshiLiu has made the advancement [Cover Me with Diamonds]
+[21:30:47] [Server thread/INFO]: Phosphorus212 was slain by Husk
+[21:31:52] [Server thread/INFO]: Batato1024 was shot by Stray
+[21:36:11] [Server thread/INFO]: JingshiLiu has made the advancement [A Throwaway Joke]
+[21:51:29] [Server thread/INFO]: Phosphorus212 has made the advancement [Ol' Betsy]
+[21:51:29] [Server thread/INFO]: Phosphorus212 has made the advancement [Take Aim]
+[21:51:53] [Server thread/INFO]: JingshiLiu was shot by Phosphorus212
+[21:52:56] [Server thread/INFO]: JingshiLiu was shot by Phosphorus212
+[21:54:08] [Server thread/INFO]: Phosphorus212 was shot by JingshiLiu
+[21:54:29] [Server thread/INFO]: Phosphorus212 was shot by JingshiLiu
+[21:54:38] [Server thread/INFO]: JingshiLiu lost connection: Disconnected
+[21:54:38] [Server thread/INFO]: JingshiLiu left the game
+[21:54:42] [User Authenticator #9/INFO]: UUID of player JingshiLiu is d7addac5-aba4-42a8-9851-e80ceaa5cb76
+[21:54:42] [Server thread/INFO]: JingshiLiu[/127.0.0.1:54293] logged in with entity id 151970 at (153.53665086718343, 124.0, -792.818415689824)
+[21:54:42] [Server thread/INFO]: JingshiLiu joined the game
+[21:57:09] [Server thread/INFO]: Batato1024 lost connection: Disconnected
+[21:57:09] [Server thread/INFO]: Batato1024 left the game
+[21:57:10] [Server thread/INFO]: Phosphorus212 lost connection: Disconnected
+[21:57:10] [Server thread/INFO]: Phosphorus212 left the game
+[21:57:16] [User Authenticator #10/INFO]: UUID of player Batato1024 is 20b650c8-4348-4cce-a807-4f1a8fb8a620
+[21:57:16] [Server thread/INFO]: Batato1024[/47.230.60.135:2534] logged in with entity id 152661 at (153.82829006353612, 119.0, -791.2998843131629)
+[21:57:16] [Server thread/INFO]: Batato1024 joined the game
+[21:57:51] [Server thread/INFO]: Batato1024 lost connection: Disconnected
+[21:57:51] [Server thread/INFO]: Batato1024 left the game
