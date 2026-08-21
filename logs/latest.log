@@ -1,27 +1,27 @@
-[19:31:11] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[19:31:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:31:16] [ServerMain/INFO]: Loaded 1370 recipes
-[19:31:16] [ServerMain/INFO]: Loaded 1481 advancements
-[19:31:16] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[19:31:16] [Server thread/INFO]: Loading properties
-[19:31:16] [Server thread/INFO]: Default game type: SURVIVAL
-[19:31:16] [Server thread/INFO]: Generating keypair
-[19:31:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:31:16] [Server thread/INFO]: Using default channel type
-[19:31:16] [Server thread/INFO]: Preparing level "world"
-[19:31:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:31:17] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[19:31:17] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[19:31:17] [Server thread/INFO]: Time elapsed: 643 ms
-[19:31:17] [Server thread/INFO]: Done (0.887s)! For help, type "help"
-[19:31:21] [Server thread/INFO]: Stopping the server
-[19:31:21] [Server thread/INFO]: Stopping server
-[19:31:21] [Server thread/INFO]: Saving players
-[19:31:21] [Server thread/INFO]: Saving worlds
-[19:31:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:31:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:31:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:31:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:31:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:31:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:31:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:32:30] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[19:32:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:32:35] [ServerMain/INFO]: Loaded 1370 recipes
+[19:32:35] [ServerMain/INFO]: Loaded 1481 advancements
+[19:32:35] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[19:32:35] [Server thread/INFO]: Loading properties
+[19:32:35] [Server thread/INFO]: Default game type: SURVIVAL
+[19:32:35] [Server thread/INFO]: Generating keypair
+[19:32:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:32:35] [Server thread/INFO]: Using default channel type
+[19:32:35] [Server thread/INFO]: Preparing level "world"
+[19:32:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:32:36] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[19:32:36] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[19:32:36] [Server thread/INFO]: Time elapsed: 644 ms
+[19:32:36] [Server thread/INFO]: Done (0.874s)! For help, type "help"
+[19:32:41] [Server thread/INFO]: Stopping the server
+[19:32:41] [Server thread/INFO]: Stopping server
+[19:32:41] [Server thread/INFO]: Saving players
+[19:32:41] [Server thread/INFO]: Saving worlds
+[19:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:32:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:32:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:32:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:32:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -1,0 +1,1 @@
+git add . && git cm 'update' && git push
