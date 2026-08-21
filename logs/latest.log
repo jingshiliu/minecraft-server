@@ -1,43 +1,27 @@
-[20:42:07] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[20:42:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:42:11] [ServerMain/INFO]: Loaded 1370 recipes
-[20:42:11] [ServerMain/INFO]: Loaded 1481 advancements
-[20:42:11] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[20:42:11] [Server thread/INFO]: Loading properties
-[20:42:11] [Server thread/INFO]: Default game type: SURVIVAL
-[20:42:11] [Server thread/INFO]: Generating keypair
-[20:42:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:42:11] [Server thread/INFO]: Using default channel type
-[20:42:11] [Server thread/INFO]: Preparing level "world"
-[20:42:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:42:12] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[20:42:12] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[20:42:12] [Server thread/INFO]: Time elapsed: 585 ms
-[20:42:12] [Server thread/INFO]: Done (0.790s)! For help, type "help"
-[20:42:15] [User Authenticator #1/INFO]: UUID of player WINDOWS13333333 is 6988abd0-7764-46ce-bc05-3cd6c28a4d9c
-[20:42:16] [Server thread/INFO]: WINDOWS13333333[/73.79.237.99:58844] logged in with entity id 5 at (-476.1721618861567, 63.0, -550.6660597749584)
-[20:42:16] [Server thread/INFO]: WINDOWS13333333 joined the game
-[20:42:44] [Server thread/INFO]: WINDOWS13333333 lost connection: Disconnected
-[20:42:44] [Server thread/INFO]: WINDOWS13333333 left the game
-[20:43:16] [User Authenticator #2/INFO]: UUID of player JingshiLiu is d7addac5-aba4-42a8-9851-e80ceaa5cb76
-[20:43:17] [Server thread/INFO]: JingshiLiu[/73.181.80.28:51735] logged in with entity id 317 at (-468.96078359428816, 63.0, -546.3893550724005)
-[20:43:17] [Server thread/INFO]: JingshiLiu joined the game
-[20:43:40] [User Authenticator #3/INFO]: UUID of player WINDOWS13333333 is 6988abd0-7764-46ce-bc05-3cd6c28a4d9c
-[20:43:40] [Server thread/INFO]: WINDOWS13333333[/73.79.237.99:58884] logged in with entity id 650 at (-475.08663439099973, 63.0, -550.4971566385178)
-[20:43:40] [Server thread/INFO]: WINDOWS13333333 joined the game
-[20:44:02] [Server thread/INFO]: WINDOWS13333333 was slain by Polar Bear
-[20:48:28] [Server thread/INFO]: WINDOWS13333333 has made the advancement [Sweet Dreams]
-[21:00:45] [Server thread/INFO]: WINDOWS13333333 lost connection: Disconnected
-[21:00:45] [Server thread/INFO]: WINDOWS13333333 left the game
-[21:01:31] [User Authenticator #4/INFO]: UUID of player WINDOWS13333333 is 6988abd0-7764-46ce-bc05-3cd6c28a4d9c
-[21:01:32] [Server thread/INFO]: WINDOWS13333333[/73.79.237.99:61158] logged in with entity id 6073 at (-787.3377494114858, 64.0, -923.5805450408706)
-[21:01:32] [Server thread/INFO]: WINDOWS13333333 joined the game
-[21:10:55] [Server thread/INFO]: WINDOWS13333333 lost connection: Disconnected
-[21:10:55] [Server thread/INFO]: WINDOWS13333333 left the game
-[21:31:34] [Server thread/INFO]: JingshiLiu has made the advancement [A Seedy Place]
-[22:20:26] [Server thread/INFO]: Villager coj['Farmer'/2121, l='ServerLevel[world]', x=-774.91, y=67.00, z=-966.57] died, message: 'Farmer was slain by Zombie'
-[22:20:32] [Server thread/INFO]: Villager coj['Villager'/2191, l='ServerLevel[world]', x=-771.98, y=67.00, z=-966.75] died, message: 'Villager was slain by Zombie'
-[22:39:24] [Server thread/INFO]: Villager coj['Villager'/2006, l='ServerLevel[world]', x=-800.55, y=70.00, z=-909.48] died, message: 'Villager was slain by Zombie'
-[22:39:27] [Server thread/INFO]: Villager coj['Villager'/2018, l='ServerLevel[world]', x=-804.85, y=70.00, z=-909.86] died, message: 'Villager was slain by Zombie'
-[23:21:46] [Server thread/INFO]: JingshiLiu lost connection: Disconnected
-[23:21:46] [Server thread/INFO]: JingshiLiu left the game
+[19:31:11] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[19:31:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:31:16] [ServerMain/INFO]: Loaded 1370 recipes
+[19:31:16] [ServerMain/INFO]: Loaded 1481 advancements
+[19:31:16] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[19:31:16] [Server thread/INFO]: Loading properties
+[19:31:16] [Server thread/INFO]: Default game type: SURVIVAL
+[19:31:16] [Server thread/INFO]: Generating keypair
+[19:31:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:31:16] [Server thread/INFO]: Using default channel type
+[19:31:16] [Server thread/INFO]: Preparing level "world"
+[19:31:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:31:17] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:31:17] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:31:17] [Server thread/INFO]: Time elapsed: 643 ms
+[19:31:17] [Server thread/INFO]: Done (0.887s)! For help, type "help"
+[19:31:21] [Server thread/INFO]: Stopping the server
+[19:31:21] [Server thread/INFO]: Stopping server
+[19:31:21] [Server thread/INFO]: Saving players
+[19:31:21] [Server thread/INFO]: Saving worlds
+[19:31:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:31:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:31:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:31:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:31:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:31:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:31:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
