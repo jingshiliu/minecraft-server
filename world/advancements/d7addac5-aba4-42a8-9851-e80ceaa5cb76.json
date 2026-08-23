@@ -1542,64 +1542,30 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2026-08-20 19:40:44 -0600",
+      "minecraft:chicken": "2026-08-23 02:05:10 -0600",
+      "minecraft:pig": "2026-08-20 19:38:06 -0600",
+      "minecraft:sheep": "2026-08-23 02:04:03 -0600"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2026-08-20 19:38:06 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2026-08-20 19:38:22 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2026-08-20 19:47:02 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2026-08-20 20:11:17 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_helmet": "2026-08-20 20:37:14 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2026-08-20 20:41:47 -0600"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:cow": "2026-08-20 19:40:44 -0600",
-      "minecraft:pig": "2026-08-20 19:38:06 -0600"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_helmet": "2026-08-20 20:37:14 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2026-08-20 19:45:51 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2026-08-20 20:41:47 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2026-08-20 20:51:45 -0600"
     },
     "done": true
   },
@@ -1615,9 +1581,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "has_string": "2026-08-20 20:41:47 -0600"
+      "has_porkchop": "2026-08-20 19:47:02 -0600"
     },
     "done": true
   },
@@ -1627,9 +1593,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
-      "has_string": "2026-08-20 20:41:47 -0600"
+      "has_porkchop": "2026-08-20 19:47:02 -0600"
     },
     "done": true
   },
@@ -1639,13 +1605,61 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_porkchop": "2026-08-20 19:47:02 -0600"
+      "has_spider_eye": "2026-08-20 20:11:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2026-08-20 20:37:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2026-08-20 20:37:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2026-08-20 20:41:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2026-08-20 20:41:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2026-08-20 20:41:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2026-08-20 20:41:47 -0600"
     },
     "done": true
   },
   "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2026-08-20 20:41:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2026-08-20 20:41:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
     "criteria": {
       "has_string": "2026-08-20 20:41:47 -0600"
     },
@@ -1663,21 +1677,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "has_string": "2026-08-20 20:41:47 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/bundle": {
-    "criteria": {
-      "has_string": "2026-08-20 20:41:47 -0600"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2026-08-20 19:38:06 -0600"
+      "has_emerald": "2026-08-20 20:51:45 -0600"
     },
     "done": true
   },
