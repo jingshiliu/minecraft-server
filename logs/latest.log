@@ -1,32 +1,32 @@
-[01:57:23] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[01:57:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:57:27] [ServerMain/INFO]: Loaded 1370 recipes
-[01:57:27] [ServerMain/INFO]: Loaded 1481 advancements
-[01:57:27] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[01:57:27] [Server thread/INFO]: Loading properties
-[01:57:27] [Server thread/INFO]: Default game type: SURVIVAL
-[01:57:27] [Server thread/INFO]: Generating keypair
-[01:57:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:57:27] [Server thread/INFO]: Using default channel type
-[01:57:27] [Server thread/INFO]: Preparing level "world"
-[01:57:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:57:28] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[01:57:28] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[01:57:28] [Server thread/INFO]: Time elapsed: 612 ms
-[01:57:28] [Server thread/INFO]: Done (0.775s)! For help, type "help"
-[01:57:40] [User Authenticator #1/INFO]: UUID of player JingshiLiu is d7addac5-aba4-42a8-9851-e80ceaa5cb76
-[01:57:40] [Server thread/INFO]: JingshiLiu[/73.181.80.28:51987] logged in with entity id 5 at (-1054.0919856285127, 99.0, -1306.2702066304405)
-[01:57:40] [Server thread/INFO]: JingshiLiu joined the game
-[03:25:29] [Server thread/INFO]: JingshiLiu lost connection: Disconnected
-[03:25:29] [Server thread/INFO]: JingshiLiu left the game
-[03:25:49] [Server thread/INFO]: Stopping the server
-[03:25:49] [Server thread/INFO]: Stopping server
-[03:25:49] [Server thread/INFO]: Saving players
-[03:25:49] [Server thread/INFO]: Saving worlds
-[03:25:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:25:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:25:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:25:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:25:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:25:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:25:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:31:08] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[12:31:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:31:13] [ServerMain/INFO]: Loaded 1370 recipes
+[12:31:13] [ServerMain/INFO]: Loaded 1481 advancements
+[12:31:13] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[12:31:13] [Server thread/INFO]: Loading properties
+[12:31:13] [Server thread/INFO]: Default game type: SURVIVAL
+[12:31:13] [Server thread/INFO]: Generating keypair
+[12:31:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:31:13] [Server thread/INFO]: Using default channel type
+[12:31:13] [Server thread/INFO]: Preparing level "world"
+[12:31:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:31:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:31:14] [Server thread/INFO]: Time elapsed: 549 ms
+[12:31:14] [Server thread/INFO]: Done (0.800s)! For help, type "help"
+[12:31:49] [User Authenticator #1/INFO]: UUID of player JingshiLiu is d7addac5-aba4-42a8-9851-e80ceaa5cb76
+[12:31:50] [Server thread/INFO]: JingshiLiu[/127.0.0.1:52618] logged in with entity id 5 at (-787.6581770825717, 64.0, -925.3041904544341)
+[12:31:50] [Server thread/INFO]: JingshiLiu joined the game
+[13:41:21] [Server thread/INFO]: JingshiLiu has made the advancement [What a Deal!]
+[14:15:57] [Server thread/INFO]: JingshiLiu lost connection: Disconnected
+[14:15:57] [Server thread/INFO]: JingshiLiu left the game
+[14:16:07] [Server thread/INFO]: Stopping the server
+[14:16:07] [Server thread/INFO]: Stopping server
+[14:16:07] [Server thread/INFO]: Saving players
+[14:16:07] [Server thread/INFO]: Saving worlds
+[14:16:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:16:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:16:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:16:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:16:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:16:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:16:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
