@@ -169,16 +169,17 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2026-08-18 21:59:06 -0600",
       "bread": "2026-08-19 21:01:18 -0600",
       "rotten_flesh": "2026-08-19 20:55:13 -0600",
       "cooked_mutton": "2026-08-18 22:40:49 -0600",
+      "sweet_berries": "2026-08-19 20:45:04 -0600",
+      "baked_potato": "2026-08-23 13:26:17 -0600",
+      "beef": "2026-08-24 21:10:37 -0600",
+      "apple": "2026-08-18 21:59:06 -0600",
       "potato": "2026-08-23 13:23:17 -0600",
       "rabbit": "2026-08-20 19:53:25 -0600",
       "cooked_cod": "2026-08-20 20:35:13 -0600",
-      "sweet_berries": "2026-08-19 20:45:04 -0600",
       "cod": "2026-08-19 20:45:00 -0600",
-      "baked_potato": "2026-08-23 13:26:17 -0600",
       "poisonous_potato": "2026-08-20 16:58:16 -0600",
       "carrot": "2026-08-20 19:41:19 -0600"
     },
@@ -720,6 +721,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2026-08-24 21:05:03 -0600",
       "minecraft:skeleton": "2026-08-18 22:30:46 -0600",
       "minecraft:enderman": "2026-08-20 16:40:35 -0600",
       "minecraft:stray": "2026-08-20 20:30:13 -0600",
@@ -1686,15 +1688,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_rail": "2026-08-23 14:04:02 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2026-08-23 14:03:18 -0600"
+      "traded": "2026-08-23 13:41:21 -0600"
     },
     "done": true
   },
@@ -1704,13 +1700,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "has_raw_gold": "2026-08-23 14:03:18 -0600"
+      "has_chicken": "2026-08-23 13:43:38 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2026-08-23 13:43:38 -0600"
     },
@@ -1722,21 +1718,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_chicken": "2026-08-23 13:43:38 -0600"
+      "has_bone_meal": "2026-08-23 13:45:52 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
-      "has_redstone": "2026-08-23 14:04:36 -0600"
+      "has_raw_gold": "2026-08-23 14:03:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2026-08-23 14:03:18 -0600"
     },
     "done": true
   },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2026-08-23 14:03:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2026-08-23 14:04:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2026-08-23 14:04:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2026-08-23 14:04:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2026-08-23 14:04:36 -0600"
     },
     "done": true
   },
@@ -1752,27 +1778,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2026-08-23 14:14:35 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2026-08-23 14:04:36 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2026-08-23 14:09:28 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2026-08-23 14:14:35 -0600"
     },
     "done": true
   },
@@ -1788,15 +1796,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
+  "minecraft:recipes/tools/compass": {
     "criteria": {
-      "has_rail": "2026-08-23 14:04:02 -0600"
+      "has_redstone": "2026-08-23 14:04:36 -0600"
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "minecraft:recipes/redstone/piston": {
     "criteria": {
-      "traded": "2026-08-23 13:41:21 -0600"
+      "has_redstone": "2026-08-23 14:04:36 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2026-08-23 14:09:28 -0600"
     },
     "done": true
   },
@@ -1812,27 +1826,189 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
+  "minecraft:recipes/misc/brick": {
     "criteria": {
-      "has_redstone": "2026-08-23 14:04:36 -0600"
+      "has_clay_ball": "2026-08-23 14:14:35 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/building_blocks/clay": {
     "criteria": {
-      "has_rail": "2026-08-23 14:04:02 -0600"
+      "has_clay_ball": "2026-08-23 14:14:35 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
-      "has_redstone": "2026-08-23 14:04:36 -0600"
+      "has_tuff": "2026-08-24 21:20:40 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
-      "has_bone_meal": "2026-08-23 13:45:52 -0600"
+      "has_tuff": "2026-08-24 21:20:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2026-08-24 20:53:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2026-08-24 21:20:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-08-24 21:20:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-08-24 21:20:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2026-08-24 21:20:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2026-08-24 20:53:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2026-08-24 20:53:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-08-24 21:20:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2026-08-24 20:53:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2026-08-24 20:53:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-08-24 21:20:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2026-08-24 21:20:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-08-24 21:20:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2026-08-24 20:53:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-08-24 21:20:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-08-24 21:20:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-08-24 21:20:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-08-24 21:20:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2026-08-24 20:53:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff": {
+    "criteria": {
+      "has_tuff": "2026-08-24 21:20:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-08-24 21:20:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2026-08-24 20:53:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2026-08-24 20:53:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-08-24 20:53:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2026-08-24 20:53:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-08-24 21:20:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2026-08-24 20:53:31 -0600"
     },
     "done": true
   },
