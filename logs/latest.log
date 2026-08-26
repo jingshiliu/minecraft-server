@@ -1,37 +1,40 @@
-[20:50:27] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[20:50:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:50:31] [ServerMain/INFO]: Loaded 1370 recipes
-[20:50:31] [ServerMain/INFO]: Loaded 1481 advancements
-[20:50:31] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[20:50:31] [Server thread/INFO]: Loading properties
-[20:50:31] [Server thread/INFO]: Default game type: SURVIVAL
-[20:50:31] [Server thread/INFO]: Generating keypair
-[20:50:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:50:31] [Server thread/INFO]: Using default channel type
-[20:50:31] [Server thread/INFO]: Preparing level "world"
-[20:50:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:50:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:50:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:50:32] [Server thread/INFO]: Time elapsed: 649 ms
-[20:50:32] [Server thread/INFO]: Done (0.825s)! For help, type "help"
-[20:51:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:51:58] [User Authenticator #1/INFO]: UUID of player JingshiLiu is d7addac5-aba4-42a8-9851-e80ceaa5cb76
-[20:51:59] [Server thread/INFO]: JingshiLiu[/73.181.80.28:56985] logged in with entity id 54 at (-1938.4844470138037, 0.0, -783.5951655020308)
-[20:51:59] [Server thread/INFO]: JingshiLiu joined the game
-[20:53:31] [Server thread/INFO]: JingshiLiu has made the advancement [Diamonds!]
-[21:22:45] [Server thread/INFO]: JingshiLiu tried to swim in lava
-[21:51:29] [Server thread/INFO]: JingshiLiu lost connection: Disconnected
-[21:51:29] [Server thread/INFO]: JingshiLiu left the game
-[21:51:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:51:39] [Server thread/INFO]: STOP<--[HERE]
-[21:51:42] [Server thread/INFO]: Stopping the server
-[21:51:42] [Server thread/INFO]: Stopping server
-[21:51:42] [Server thread/INFO]: Saving players
-[21:51:42] [Server thread/INFO]: Saving worlds
-[21:51:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:51:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:51:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:44:15] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[20:44:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:44:19] [ServerMain/INFO]: Loaded 1370 recipes
+[20:44:19] [ServerMain/INFO]: Loaded 1481 advancements
+[20:44:19] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[20:44:19] [Server thread/INFO]: Loading properties
+[20:44:19] [Server thread/INFO]: Default game type: SURVIVAL
+[20:44:19] [Server thread/INFO]: Generating keypair
+[20:44:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:44:20] [Server thread/INFO]: Using default channel type
+[20:44:20] [Server thread/INFO]: Preparing level "world"
+[20:44:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:44:20] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:44:20] [Worker-Main-4/INFO]: Preparing spawn area: 51%
+[20:44:20] [Server thread/INFO]: Time elapsed: 622 ms
+[20:44:20] [Server thread/INFO]: Done (0.827s)! For help, type "help"
+[20:45:03] [User Authenticator #1/INFO]: UUID of player JingshiLiu is d7addac5-aba4-42a8-9851-e80ceaa5cb76
+[20:45:03] [Server thread/INFO]: JingshiLiu[/73.181.80.28:61058] logged in with entity id 47 at (-785.9267521673391, 64.5625, -926.8070826082077)
+[20:45:03] [Server thread/INFO]: JingshiLiu joined the game
+[20:45:34] [User Authenticator #2/INFO]: UUID of player WINDOWS13333333 is 6988abd0-7764-46ce-bc05-3cd6c28a4d9c
+[20:45:34] [Server thread/INFO]: WINDOWS13333333[/73.79.237.99:53550] logged in with entity id 888 at (-325.74927379034455, 70.0, -284.57348543028684)
+[20:45:34] [Server thread/INFO]: WINDOWS13333333 joined the game
+[20:53:09] [Server thread/INFO]: Villager coj['Butcher'/236, l='ServerLevel[world]', x=-801.70, y=75.00, z=-879.70] died, message: 'Butcher burned to death'
+[20:53:13] [Server thread/INFO]: WINDOWS13333333 has made the advancement [Diamonds!]
+[21:14:41] [Server thread/INFO]: Villager coj['Nitwit'/4924, l='ServerLevel[world]', x=-256.70, y=76.00, z=-1406.08] died, message: 'Nitwit hit the ground too hard'
+[21:21:32] [Server thread/INFO]: JingshiLiu lost connection: Disconnected
+[21:21:32] [Server thread/INFO]: JingshiLiu left the game
+[21:21:35] [Server thread/INFO]: WINDOWS13333333 lost connection: Disconnected
+[21:21:35] [Server thread/INFO]: WINDOWS13333333 left the game
+[21:22:18] [Server thread/INFO]: Stopping the server
+[21:22:18] [Server thread/INFO]: Stopping server
+[21:22:18] [Server thread/INFO]: Saving players
+[21:22:18] [Server thread/INFO]: Saving worlds
+[21:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
