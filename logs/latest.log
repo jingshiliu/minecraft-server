@@ -1,40 +1,48 @@
-[20:44:15] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[20:44:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:44:19] [ServerMain/INFO]: Loaded 1370 recipes
-[20:44:19] [ServerMain/INFO]: Loaded 1481 advancements
-[20:44:19] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[20:44:19] [Server thread/INFO]: Loading properties
-[20:44:19] [Server thread/INFO]: Default game type: SURVIVAL
-[20:44:19] [Server thread/INFO]: Generating keypair
-[20:44:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:44:20] [Server thread/INFO]: Using default channel type
-[20:44:20] [Server thread/INFO]: Preparing level "world"
-[20:44:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:44:20] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[20:44:20] [Worker-Main-4/INFO]: Preparing spawn area: 51%
-[20:44:20] [Server thread/INFO]: Time elapsed: 622 ms
-[20:44:20] [Server thread/INFO]: Done (0.827s)! For help, type "help"
-[20:45:03] [User Authenticator #1/INFO]: UUID of player JingshiLiu is d7addac5-aba4-42a8-9851-e80ceaa5cb76
-[20:45:03] [Server thread/INFO]: JingshiLiu[/73.181.80.28:61058] logged in with entity id 47 at (-785.9267521673391, 64.5625, -926.8070826082077)
-[20:45:03] [Server thread/INFO]: JingshiLiu joined the game
-[20:45:34] [User Authenticator #2/INFO]: UUID of player WINDOWS13333333 is 6988abd0-7764-46ce-bc05-3cd6c28a4d9c
-[20:45:34] [Server thread/INFO]: WINDOWS13333333[/73.79.237.99:53550] logged in with entity id 888 at (-325.74927379034455, 70.0, -284.57348543028684)
-[20:45:34] [Server thread/INFO]: WINDOWS13333333 joined the game
-[20:53:09] [Server thread/INFO]: Villager coj['Butcher'/236, l='ServerLevel[world]', x=-801.70, y=75.00, z=-879.70] died, message: 'Butcher burned to death'
-[20:53:13] [Server thread/INFO]: WINDOWS13333333 has made the advancement [Diamonds!]
-[21:14:41] [Server thread/INFO]: Villager coj['Nitwit'/4924, l='ServerLevel[world]', x=-256.70, y=76.00, z=-1406.08] died, message: 'Nitwit hit the ground too hard'
-[21:21:32] [Server thread/INFO]: JingshiLiu lost connection: Disconnected
-[21:21:32] [Server thread/INFO]: JingshiLiu left the game
-[21:21:35] [Server thread/INFO]: WINDOWS13333333 lost connection: Disconnected
-[21:21:35] [Server thread/INFO]: WINDOWS13333333 left the game
-[21:22:18] [Server thread/INFO]: Stopping the server
-[21:22:18] [Server thread/INFO]: Stopping server
-[21:22:18] [Server thread/INFO]: Saving players
-[21:22:18] [Server thread/INFO]: Saving worlds
-[21:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:43:41] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[13:43:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:43:46] [ServerMain/INFO]: Loaded 1370 recipes
+[13:43:46] [ServerMain/INFO]: Loaded 1481 advancements
+[13:43:46] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[13:43:46] [Server thread/INFO]: Loading properties
+[13:43:46] [Server thread/INFO]: Default game type: SURVIVAL
+[13:43:46] [Server thread/INFO]: Generating keypair
+[13:43:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:43:46] [Server thread/INFO]: Using default channel type
+[13:43:46] [Server thread/INFO]: Preparing level "world"
+[13:43:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:43:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:43:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:43:48] [Server thread/INFO]: Time elapsed: 771 ms
+[13:43:48] [Server thread/INFO]: Done (1.077s)! For help, type "help"
+[13:43:55] [User Authenticator #1/INFO]: UUID of player WINDOWS13333333 is 6988abd0-7764-46ce-bc05-3cd6c28a4d9c
+[13:43:55] [Server thread/INFO]: WINDOWS13333333[/73.79.237.99:63764] logged in with entity id 5 at (-487.3612241771762, -7.0, -1123.5200648468374)
+[13:43:55] [Server thread/INFO]: WINDOWS13333333 joined the game
+[13:55:53] [Server thread/INFO]: WINDOWS13333333 was slain by Zombie
+[14:41:04] [Server thread/INFO]: WINDOWS13333333 was blown up by Creeper
+[15:01:41] [Server thread/INFO]: WINDOWS13333333 was slain by Warden
+[15:06:56] [Server thread/INFO]: WINDOWS13333333 lost connection: Disconnected
+[15:06:56] [Server thread/INFO]: WINDOWS13333333 left the game
+[15:07:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:43:48] [User Authenticator #2/INFO]: UUID of player WINDOWS13333333 is 6988abd0-7764-46ce-bc05-3cd6c28a4d9c
+[16:43:48] [Server thread/INFO]: WINDOWS13333333[/73.79.237.99:53025] logged in with entity id 20385 at (-784.8029913451387, 64.0, -923.9621188627256)
+[16:43:48] [Server thread/INFO]: WINDOWS13333333 joined the game
+[17:42:28] [Server thread/INFO]: Villager coj['Villager'/21036, l='ServerLevel[world]', x=-1033.46, y=70.69, z=-1341.17] died, message: 'Villager was impaled on a stalagmite'
+[17:50:42] [User Authenticator #3/INFO]: UUID of player JingshiLiu is d7addac5-aba4-42a8-9851-e80ceaa5cb76
+[17:50:42] [Server thread/INFO]: JingshiLiu[/73.181.80.28:61571] logged in with entity id 34418 at (-488.18141218019446, -8.0, -1132.2668675045725)
+[17:50:42] [Server thread/INFO]: JingshiLiu joined the game
+[17:53:37] [Server thread/INFO]: JingshiLiu was shot by Skeleton
+[17:57:30] [Server thread/INFO]: WINDOWS13333333 lost connection: Disconnected
+[17:57:30] [Server thread/INFO]: WINDOWS13333333 left the game
+[18:11:22] [Server thread/INFO]: JingshiLiu lost connection: Disconnected
+[18:11:22] [Server thread/INFO]: JingshiLiu left the game
+[18:11:29] [Server thread/INFO]: Stopping the server
+[18:11:29] [Server thread/INFO]: Stopping server
+[18:11:29] [Server thread/INFO]: Saving players
+[18:11:29] [Server thread/INFO]: Saving worlds
+[18:11:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:11:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:11:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:11:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:11:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:11:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:11:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
