@@ -1,28 +1,22 @@
-[11:25:12] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[11:25:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11:25:17] [ServerMain/INFO]: Loaded 1370 recipes
-[11:25:17] [ServerMain/INFO]: Loaded 1481 advancements
-[11:25:17] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[11:25:17] [Server thread/INFO]: Loading properties
-[11:25:17] [Server thread/INFO]: Default game type: SURVIVAL
-[11:25:17] [Server thread/INFO]: Generating keypair
-[11:25:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:25:17] [Server thread/INFO]: Using default channel type
-[11:25:17] [Server thread/INFO]: Preparing level "world"
-[11:25:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:25:18] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[11:25:18] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[11:25:18] [Server thread/INFO]: Time elapsed: 626 ms
-[11:25:18] [Server thread/INFO]: Done (0.834s)! For help, type "help"
-[11:26:01] [User Authenticator #1/INFO]: UUID of player JingshiLiu is d7addac5-aba4-42a8-9851-e80ceaa5cb76
-[11:26:01] [Server thread/INFO]: JingshiLiu[/73.181.80.28:51077] logged in with entity id 5 at (-833.269787334287, 63.0, -933.8654952682365)
-[11:26:01] [Server thread/INFO]: JingshiLiu joined the game
-[11:29:55] [Server thread/INFO]: JingshiLiu lost connection: Disconnected
-[11:29:55] [Server thread/INFO]: JingshiLiu left the game
-[12:06:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2182421ms or 43648 ticks behind
-[12:07:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:16:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1326361ms or 26527 ticks behind
-[13:30:18] [Netty Server IO #11/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[15:05:05] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[15:05:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:05:09] [ServerMain/INFO]: Loaded 1370 recipes
+[15:05:09] [ServerMain/INFO]: Loaded 1481 advancements
+[15:05:09] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[15:05:09] [Server thread/INFO]: Loading properties
+[15:05:09] [Server thread/INFO]: Default game type: SURVIVAL
+[15:05:09] [Server thread/INFO]: Generating keypair
+[15:05:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:05:09] [Server thread/INFO]: Using default channel type
+[15:05:09] [Server thread/INFO]: Preparing level "world"
+[15:05:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:05:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:05:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:05:10] [Server thread/INFO]: Time elapsed: 610 ms
+[15:05:10] [Server thread/INFO]: Done (0.789s)! For help, type "help"
+[15:05:15] [Server thread/INFO]: WINDOWS13333333 (/73.79.237.99:50936) lost connection: Disconnected
+[15:05:17] [Server thread/INFO]: WINDOWS13333333 (/73.79.237.99:50939) lost connection: Disconnected
+[15:06:01] [Netty Server IO #4/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
 	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
@@ -63,17 +57,73 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
-[15:03:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3870906ms or 77418 ticks behind
-[15:04:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[15:04:38] [Server thread/INFO]: 																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										stop<--[HERE]
-[15:04:43] [Server thread/INFO]: Stopping the server
-[15:04:43] [Server thread/INFO]: Stopping server
-[15:04:43] [Server thread/INFO]: Saving players
-[15:04:43] [Server thread/INFO]: Saving worlds
-[15:04:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:04:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:04:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:04:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:04:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:04:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:04:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:06:02] [User Authenticator #1/INFO]: UUID of player WINDOWS13333333 is 6988abd0-7764-46ce-bc05-3cd6c28a4d9c
+[15:06:03] [Server thread/INFO]: WINDOWS13333333[/73.79.237.99:49781] logged in with entity id 5 at (-834.8419286036901, 66.0, -931.1789304498757)
+[15:06:03] [Server thread/INFO]: WINDOWS13333333 joined the game
+[15:34:09] [Server thread/INFO]: WINDOWS13333333 lost connection: Disconnected
+[15:34:09] [Server thread/INFO]: WINDOWS13333333 left the game
+[15:35:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:05:45] [Netty Server IO #11/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
+	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
+	at vu.a(SourceFile:26) ~[server-1.21.4.jar:?]
+	at vu.encode(SourceFile:12) ~[server-1.21.4.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi$2.write(SourceFile:530) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi.c(SourceFile:350) ~[server-1.21.4.jar:?]
+	at vi.b(SourceFile:343) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:325) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:319) ~[server-1.21.4.jar:?]
+	at vi.exceptionCaught(SourceFile:170) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+[17:14:10] [User Authenticator #2/INFO]: UUID of player WINDOWS13333333 is 6988abd0-7764-46ce-bc05-3cd6c28a4d9c
+[17:14:10] [Server thread/INFO]: WINDOWS13333333[/73.79.237.99:54311] logged in with entity id 7365 at (-682.8802695303159, 64.0, -1091.699999988079)
+[17:14:10] [Server thread/INFO]: WINDOWS13333333 joined the game
+[17:24:14] [Server thread/INFO]: WINDOWS13333333 has made the advancement [A Seedy Place]
+[17:27:26] [Server thread/INFO]: WINDOWS13333333 has made the advancement [Best Friends Forever]
+[17:35:43] [Server thread/INFO]: WINDOWS13333333 lost connection: Disconnected
+[17:35:43] [Server thread/INFO]: WINDOWS13333333 left the game
+[17:36:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:53:49] [User Authenticator #3/INFO]: UUID of player RameshChoudary is 53bae69b-98fc-4f60-b865-462e723d2a23
+[17:53:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@e104b4c[id=53bae69b-98fc-4f60-b865-462e723d2a23,name=RameshChoudary,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc4ODMwNjgzODI0NCwKICAicHJvZmlsZUlkIiA6ICI1M2JhZTY5Yjk4ZmM0ZjYwYjg2NTQ2MmU3MjNkMmEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYW1lc2hDaG91ZGFyeSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yODNiZTI4Yjk2MzMzMmU3MmJkODYxN2EyMDk3YTBmMjk2MmU4ZTcxNTQwNTdmY2VhYjMwMWU1YmY1ZGRhOTJhIgogICAgfQogIH0KfQ==, signature=oYsXfHfoTOeFOKJjTQhj4K856ZM13W/7BT2C88w5BTJ6kvZVMkVd42lNcP0ukqRFrv1Vl1/YcA5YzGmY8Gtl/uJJGIlO57uwnyt915se0tR9seaWsWwxLGXuv9eyqTzxMCzAj25FHt+vBo2XZiX5GjGrzUhM2OYrW95mXHSar+H+AxxC5vIEaP/erfp2T9E9P2/JvCXheY46S3syWQmTnrp3w3nQxxOQBBUw10EL2m8mV6cXpsoGVGvm2eC6dAvMz9OcLGVTgXYM42FIqU2pb5428lJiPStuD8hYXeVKpi5TSCQGFIgEHMwCdY22r0sSTlgf/KizbijyeqTEVLGeX2RNEXSPHShHAgDfxWvJZH055RsuK5W0zXgdRWOKVJHwGTd/ou8fLYItv/i91kJ3d6cBX1K1arzOHHkoPssTw5cNa5MTo6A/gvmGP2krfKLau7rnDSYkEtL1sRDGTZZCHQtkGErT9xtPemmIA26/3PVDp4pk0urnBkeQCxSZqKxNkC0wg0rimEdB4oixL/ODaiREJFuxDEltcWftuC1cIui4q6p0cvNbSUv3dpKoCDS6NEc6Fr7fkw4w2vvr6Ij3V7WX4TJr3oID56I8VbJQMUyNwesEwXFInSi6ANklXiNZxCnrB140BuXFI7P+XlRsYyPY2YLj3dsYg0+J3i/n7V4=]]}] lost connection: Disconnected
+[18:50:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:50:07] [Server thread/INFO]: 																			stop<--[HERE]
+[18:50:08] [Server thread/INFO]: Stopping the server
+[18:50:08] [Server thread/INFO]: Stopping server
+[18:50:08] [Server thread/INFO]: Saving players
+[18:50:08] [Server thread/INFO]: Saving worlds
+[18:50:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:50:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:50:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:50:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:50:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:50:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:50:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
